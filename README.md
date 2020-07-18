@@ -2,9 +2,7 @@
 
 Note taking app with Firebase's Cloud Firestore as the backend.
 
-<a href="https://youtu.be/l9ifZayO1WA" target="_blank">Live Coding Video on YouTube (Part 1)</a>
-<br>
-<a href="https://youtu.be/v-yolj4TD3Y" target="_blank">Live Coding Video on YouTube (Part 2)</a>
+<a href="https://youtu.be/BTTBy3tk4ag" target="_blank">Live Coding Video on YouTube</a>
 
 ## Skills Used
 
